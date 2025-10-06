@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="ticket-all" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940.37 301.85">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: .79px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fbe7d9;
+        stroke: #2f3630;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        stroke-width: .5px;
+      }
+
+      .cls-3 {
+        stroke-width: .62px;
+      }
+    </style>
+  </defs>
+  <g id="estrellas">
+    <polygon class="cls-2" points="927.41 218.97 936.49 222.33 927.41 225.69 924.05 234.77 920.69 225.69 911.61 222.33 920.69 218.97 924.05 209.89 927.41 218.97"/>
+    <polygon class="cls-1" points="206.28 15.12 220.69 20.45 206.28 25.79 200.94 40.2 195.61 25.79 181.2 20.45 195.61 15.12 200.94 .71 206.28 15.12"/>
+    <polygon class="cls-3" points="284.52 60.92 295.78 65.09 284.52 69.26 280.35 80.52 276.18 69.26 264.91 65.09 276.18 60.92 280.35 49.65 284.52 60.92"/>
+    <polygon class="cls-3" points="853.7 79.61 864.97 83.77 853.7 87.94 849.53 99.21 845.36 87.94 834.1 83.77 845.36 79.61 849.53 68.34 853.7 79.61"/>
+    <polygon class="cls-2" points="694.93 61.73 704.01 65.09 694.93 68.45 691.57 77.53 688.21 68.45 679.12 65.09 688.21 61.73 691.57 52.65 694.93 61.73"/>
+    <g id="estrellas4">
+      <circle class="cls-3" cx="70.76" cy="65.38" r="3.18"/>
+      <circle class="cls-3" cx="39.62" cy="47.22" r="3.18"/>
+      <circle class="cls-3" cx="70.96" cy="43.02" r="3.18"/>
+      <circle class="cls-3" cx="3.49" cy="87.16" r="3.18"/>
+      <circle class="cls-3" cx="27.8" cy="68.58" r="3.18"/>
+      <circle class="cls-3" cx="25.85" cy="87.35" r="3.18"/>
+    </g>
+    <g id="estrellas3">
+      <circle class="cls-3" cx="598.02" cy="98.77" r="3.18"/>
+      <circle class="cls-3" cx="578.02" cy="68.77" r="3.18"/>
+      <circle class="cls-3" cx="608.02" cy="78.77" r="3.18"/>
+      <circle class="cls-3" cx="528.02" cy="88.77" r="3.18"/>
+      <circle class="cls-3" cx="558.02" cy="82.77" r="3.18"/>
+      <circle class="cls-3" cx="548.02" cy="98.77" r="3.18"/>
+    </g>
+    <g id="estrellas2">
+      <circle class="cls-3" cx="85.54" cy="227.73" r="3.18"/>
+      <circle class="cls-3" cx="59.89" cy="253.07" r="3.18"/>
+      <circle class="cls-3" cx="64" cy="221.72" r="3.18"/>
+      <circle class="cls-3" cx="89.02" cy="298.36" r="3.18"/>
+      <circle class="cls-3" cx="77.43" cy="270.04" r="3.18"/>
+      <circle class="cls-3" cx="95.04" cy="276.82" r="3.18"/>
+    </g>
+    <g id="estrellas1">
+      <circle class="cls-3" cx="883.87" cy="3.49" r="3.18"/>
+      <circle class="cls-3" cx="884.11" cy="39.55" r="3.18"/>
+      <circle class="cls-3" cx="864.53" cy="14.71" r="3.18"/>
+      <circle class="cls-3" cx="936.87" cy="50.3" r="3.18"/>
+      <circle class="cls-3" cx="908.51" cy="38.83" r="3.18"/>
+      <circle class="cls-3" cx="925.65" cy="30.95" r="3.18"/>
+    </g>
+    <circle class="cls-3" cx="115.48" cy="33.78" r="3.18"/>
+  </g>
+</svg>
